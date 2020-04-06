@@ -1,1 +1,1 @@
-# Coronavirus COVID-19 (2019-nCoV) Data Repository for Sudan
+# Coronavirus "COVID-19" Repository for Sudan data
