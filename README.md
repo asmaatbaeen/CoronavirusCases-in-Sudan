@@ -1,1 +1,1 @@
-# Coronavirus "COVID-19" Repository for Sudan data
+# Coronavirus "COVID-19" data visualisation for cases in Sudan
