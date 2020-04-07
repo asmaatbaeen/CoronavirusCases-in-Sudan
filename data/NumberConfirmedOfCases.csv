@@ -9,5 +9,7 @@ Date,Cases,Recovery,Death,Travel history,Age ,Country,Gender
 31-03-2020,1,0,0,Recent traveller,,Sudan,Male
 03-04-2020,1,0,0,Local transmission,,Sudan,Male
 03-04-2020,1,0,0,Recent traveller,,Sudan,Female
-05-04-2020,1,0,,Recent traveller,,Not identified,Male
-05-04-2020,1,0,,Local transmission,11,Sudan,Female
+05-04-2020,1,0,0,Recent traveller,60,Not identified,Male
+05-04-2020,1,0,0,Local transmission,11,Sudan,Female
+07-04-2020,1,0,0,Local transmission,40,Sudan,Male
+07-04-2020,1,0,0,Local transmission,70,Sudan,Male
