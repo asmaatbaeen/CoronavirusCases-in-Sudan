@@ -13,7 +13,7 @@ SIR و شرح توضيحي لنموذج
 
 The repository CoronavirusCases_in_Sudan includes two files: 
 
-> The data file: this file is going to be updated over time with every newly reported case.
+1. The data file: this file is going to be updated over time with every newly reported case.
 
-> The code file: which includes the code that used in the analysis.
+2. The code file: which includes the code that used in the analysis.
 
