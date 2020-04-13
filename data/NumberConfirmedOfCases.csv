@@ -1,18 +1,30 @@
-Date,Cases,Recovery,Death,Travel history,Age ,Country,Gender
-12-03-2020,1,0,1,Recent traveller,,Sudan,Male
-20-03-2020,1,1,0,Recent traveller,,Not identified,Male
-24-03-2020,1,0,0,Recent traveller,,Sudan,Male
-25-03-2020,1,0,0,Recent traveller,,India,Male
-25-03-2020,1,0,0,Recent traveller,,Sudan,Male
-29-03-2020,1,0,1,Recent traveller,,Sudan,Male
-30-03-2020,1,0,0,Local transmission,,France,Male
-31-03-2020,1,0,0,Recent traveller,,Sudan,Male
-03-04-2020,1,0,0,Local transmission,,Sudan,Male
-03-04-2020,1,0,0,Recent traveller,,Sudan,Female
-05-04-2020,1,0,0,Recent traveller,60,Not identified,Male
-05-04-2020,1,0,0,Local transmission,11,Sudan,Female
-07-04-2020,1,0,0,Local transmission,40,Sudan,Male
-07-04-2020,1,0,0,Local transmission,70,Sudan,Male
-09-04-2020,1,0,0,Local transmission,,Sudan,Male
-11-04-2020,1,0,0,Local transmission,,Sudan,Male
-11-04-2020,1,0,0,Recent traveller,,Sudan,Male
+Date,Cases,Recovery,Death,Travel history,Age ,Country,Gender,Town,State,
+12-03-2020,1,0,1,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+20-03-2020,1,1,0,Recent traveller,,Not identified,Male,Khartoum,Khartoum,
+24-03-2020,1,0,1,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+25-03-2020,1,0,0,Recent traveller,,India,Male,Khartoum,Khartoum,
+25-03-2020,1,0,0,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+29-03-2020,1,0,1,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+30-03-2020,1,0,0,Local transmission,,France,Male,Khartoum,Khartoum,
+31-03-2020,1,0,0,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+03-04-2020,1,0,0,Local transmission,,Sudan,Male,Khartoum,Khartoum,
+03-04-2020,1,0,0,Recent traveller,,Sudan,Female,Khartoum,Khartoum,
+05-04-2020,1,0,0,Recent traveller,60,Not identified,Male,Khartoum,Khartoum,
+05-04-2020,1,0,0,Local transmission,11,Sudan,Female,Khartoum,Khartoum,
+07-04-2020,1,0,0,Local transmission,40,Sudan,Male,Khartoum,Khartoum,
+07-04-2020,1,0,0,Local transmission,70,Sudan,Male,Khartoum,Khartoum,
+09-04-2020,1,0,0,Local transmission,,Sudan,Male,Khartoum,Khartoum,
+10-04-2020,1,0,0,Local transmission,,Sudan,Male,Khartoum,Khartoum,
+10-04-2020,1,0,0,Recent traveller,,Sudan,Male,Khartoum,Khartoum,
+11-04-2020,1,0,0,Local transmission,40,Sudan,Male,Khartoum,Khartoum,
+11-04-2020,1,0,0,Local transmission,30,Sudan,Female,Khartoum,Khartoum,
+12-04-2020,1,0,1,Local transmission,,Not identified,Male,Khartoum,Khartoum,
+12-04-2020,1,0,0,Local transmission,,Sudan,Male,Abu Hamed,River Nile,
+12-04-2020,1,0,0,Local transmission,,Sudan,Female,Omdurman,Khartoum,
+12-04-2020,1,0,0,Local transmission,,Sudan,Male,Omdurman,Khartoum,
+12-04-2020,1,0,0,Local transmission,,Sudan,Male,Bahry,Khartoum,
+12-04-2020,1,0,0,Local transmission,72,Sudan,Male,Khartoum,Khartoum,
+12-04-2020,1,0,0,Local transmission,,Sudan,Male,Khartoum,Khartoum,
+12-04-2020,1,0,0,Recent traveller,23,Sudan,Male,Khartoum,Khartoum,
+12-04-2020,1,0,0,Recent traveller,,Sudan,Female,Khartoum,Khartoum,USA
+12-04-2020,1,0,0,Recent traveller,,Sudan,Male,Khartoum,Khartoum,Egypt 
