@@ -17,3 +17,9 @@ The repository CoronavirusCases_in_Sudan includes two files:
 
 2. The code file: which includes the code that used in the analysis.
 
+
+# The Data Source 
+
+We collected data from the Sudan Federal Ministry Of Health website: https://fmoh.gov.sd/index.php/files/index/116
+
+قمنا بجمع البيانات من موقع وزارة الصحة الاتحادية السودانية 
