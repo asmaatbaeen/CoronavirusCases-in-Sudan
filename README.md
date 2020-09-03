@@ -20,6 +20,13 @@ The repository CoronavirusCases_in_Sudan includes two files:
 
 # The Data Source 
 
-We collected data from the Sudan Federal Ministry Of Health website: https://fmoh.gov.sd/index.php/files/index/116
 
-قمنا بجمع البيانات من موقع وزارة الصحة الاتحادية السودانية 
+قمنا بجمع البيانات من موقع وزارة الصحة الاتحادية السودانية
+
+We collected data from the Sudan Federal Ministry Of Health website: 
+
+1. https://fmoh.gov.sd/index.php/files/index/116
+2. https://twitter.com/FMOH_SUDAN 
+3. https://www.worldometers.info/coronavirus/country/sudan/
+4. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+5. https://github.com/owid/covid-19-data/tree/master/public/data
