@@ -1,0 +1,11 @@
+Date,Cases,Recovery,Death,Travel history,Age ,Country,Gender
+12-03-2020,1,0,1,Recent traveller,,Sudan,Male
+20-03-2020,1,1,0,Recent traveller,,Not identified,Male
+24-03-2020,1,0,0,Recent traveller,,Sudan,Male
+25-03-2020,1,0,0,Recent traveller,,India,Male
+25-03-2020,1,0,0,Recent traveller,,Sudan,Male
+29-03-2020,1,0,1,Recent traveller,,Sudan,Male
+30-03-2020,1,0,0,Local transmission,,France,Male
+31-03-2020,1,0,0,Recent traveller,,Sudan,Male
+03-04-2020,1,0,0,Local transmission,,Sudan,Male
+03-04-2020,1,0,0,Recent traveller,,Sudan,Female
